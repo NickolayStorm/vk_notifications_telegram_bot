@@ -2,6 +2,12 @@ Telegram bot for vk notifications
 
 For usage you should:
 Create your telegram bot
+Add commands:
+    /gettoken
+    /registrate
+    /stop
+    /help
+
 Get its token
 telegram_bot.py: TOKEN = <your token>
 
