@@ -1,0 +1,10 @@
+Telegram bot for vk notifications
+
+For usage you should:
+Create your telegram bot
+Get its token
+telegram_bot.py: TOKEN = <your token>
+
+Dependencies:
+pip install python-telegram-bot
+
